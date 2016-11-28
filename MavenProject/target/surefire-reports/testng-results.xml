@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="46167" started-at="2016-11-28T16:21:40Z" finished-at="2016-11-28T16:22:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="46167" started-at="2016-11-28T16:21:40Z" finished-at="2016-11-28T16:22:26Z">
+      <class name="com.automation.facebook.VerifyLogin">
+        <test-method status="PASS" signature="Credentials()[pri:0, instance:com.automation.facebook.VerifyLogin@65bb9029]" name="Credentials" duration-ms="45103" started-at="2016-11-28T11:21:40Z" finished-at="2016-11-28T11:22:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Credentials -->
+      </class> <!-- com.automation.facebook.VerifyLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

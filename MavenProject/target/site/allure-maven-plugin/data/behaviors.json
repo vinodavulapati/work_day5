@@ -1,0 +1,37 @@
+{
+  "features" : [ {
+    "title" : "Without feature",
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "stories" : [ {
+      "uid" : "f7e3c8017ada27be",
+      "title" : "Without story",
+      "statistic" : {
+        "total" : 1,
+        "passed" : 1,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      },
+      "testCases" : [ {
+        "uid" : "2dd1daaf5c31f4c3",
+        "name" : "Credentials",
+        "title" : "Credentials",
+        "time" : {
+          "start" : 1480347818809,
+          "stop" : 1480347867278,
+          "duration" : 48469
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}

@@ -1,0 +1,38 @@
+{
+  "time" : {
+    "start" : 1480347818809,
+    "stop" : 1480347867278,
+    "duration" : 48469
+  },
+  "testSuites" : [ {
+    "uid" : "b1c26f9c459066c5",
+    "name" : "Suite : Test",
+    "title" : "Suite : Test",
+    "time" : {
+      "start" : 1480347818809,
+      "stop" : 1480347867278,
+      "duration" : 48469
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "2dd1daaf5c31f4c3",
+      "name" : "Credentials",
+      "title" : "Credentials",
+      "time" : {
+        "start" : 1480347818809,
+        "stop" : 1480347867278,
+        "duration" : 48469
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

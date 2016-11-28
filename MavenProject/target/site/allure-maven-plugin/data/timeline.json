@@ -1,0 +1,20 @@
+{
+  "hosts" : [ {
+    "title" : "VINOD-PC",
+    "threads" : [ {
+      "title" : "5444@VINOD-PC.main(1)",
+      "testCases" : [ {
+        "uid" : "2dd1daaf5c31f4c3",
+        "name" : "Credentials",
+        "title" : "Credentials",
+        "time" : {
+          "start" : 1480347818809,
+          "stop" : 1480347867278,
+          "duration" : 48469
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}
